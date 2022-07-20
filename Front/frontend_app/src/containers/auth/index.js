@@ -1,9 +1,9 @@
 import AuthForm from '../../components/authForm';
 
-const Auth = function () {
+const AuthContainer = function () {
   return (
     <AuthForm />
   );
 };
 
-export default Auth;
+export default AuthContainer;
